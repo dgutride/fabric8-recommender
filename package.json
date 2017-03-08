@@ -43,7 +43,7 @@
     "npm": ">= 3"
   },
   "scripts": {
-    "prepublish": "tsc",
+    // "prepublish": "tsc",
     "typings": "typings",
     "postinstall": "typings install"
   },
