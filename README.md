@@ -1,10 +1,12 @@
-# fabric8-recommender
+# fabric8-stack-analysis
+
+This is a Fabric's Stack Analysis feature. It is an NPM Module.
 
 ## Getting started:
 
 This library does not run on it's own. It must be imported. 
 
-`npm install fabric8-recommender`
+`npm install fabric8-stack-analysis`
 
 ## Building it 
  

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "c3": "registry:dt/c3#0.4.0+20170123145731"
+  }
+}
